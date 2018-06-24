@@ -1,0 +1,9 @@
+{
+  "name": "Example Plugin in OwnCMS",
+  "description": "Example Plugin in OwnCMS",
+  "version": "1.0",
+  "author": "Akhmet Novruzov",
+  "options": {
+    "responseFile": "ExamplePlugin"
+  }
+}
